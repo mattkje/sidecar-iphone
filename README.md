@@ -1,6 +1,3 @@
-Here’s a better-formatted version of your .md file with improved readability and structure:
-
-```markdown
 # Enable Sidecar on Jailbroken iPhones (iOS 13.2+)
 
 This guide helps you enable Sidecar on jailbroken iPhones running iOS 13.2 or higher.
@@ -138,14 +135,3 @@ The script will not re-patch your system unless you revert to the original `Side
 ## Conclusion
 
 By following these steps, you should be able to enable Sidecar on your jailbroken iPhone. However, please remember that this method is experimental, and there may be issues. Always back up your device and proceed with caution.
-```
-
----
-
-### Key Changes:
-- Organized the instructions into clear sections for ease of reading.
-- Added bold and italic formatting for emphasis.
-- Used bullet points for better clarity.
-- Included links to issues where applicable, making it easier for users to find relevant information.
-
-This structure should make the guide easier to follow for your users.
