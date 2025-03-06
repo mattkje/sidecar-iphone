@@ -1,6 +1,9 @@
 # Enable Sidecar on Jailbroken iPhones (iOS 13.2+)
 
-This guide helps you enable Sidecar on jailbroken iPhones running iOS 13.2 or higher.
+This guide is a recreation of the original repository by [BreckenLusk](https://github.com/BreckenLusk/Sidecar-for-iPhone), which has since been deleted. You can still access the original version through the [Wayback Machine](https://web.archive.org/web/20201116014705/https://github.com/BreckenLusk/Sidecar-for-iPhone).
+
+It provides step-by-step instructions to enable Sidecar on jailbroken iPhones running iOS 13.2 or later.
+
 
 ## Introduction
 
